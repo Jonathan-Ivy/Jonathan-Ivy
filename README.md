@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonathan-Ivy
+- 👋 Hi, I’m Jonathan Ivy
 - 📊 I’m interested in all things data science
 - 🎓 I recently graduated with a BS in Business Intelligence
 - 🔬 Generally, my personal projects come from opportunities I see to either innovate 
